@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasanRahimzade
-- 👀 I’m interested in Coding & problem solving
-- 🌱 I’m currently learning Micro Service Arch.
+- 👀 I’m interested in Coding & problem solving.
+- 🌱 I’m currently learning Microservice Architecture.
 - 💞️ I’m looking to collaborate on .NET / .NET Core projects.
 - 📫 How to reach me via hasan.rahimzade84@gmail.com
 
